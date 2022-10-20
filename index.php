@@ -40,7 +40,7 @@
                     </div>
                  <input type="password" class="form-control" placeholder="********" aria-label="password" aria-describedby="basic-addon1">
                 </div>
-                <button onclick="location.href=../Productos/products.php" type="button" class="btn btn-secondary btn-lg btn-block col-sm-12">
+                <button onclick href="../Productos/products.php" type="button" class="btn btn-secondary btn-lg btn-block col-sm-12">
                     ACCEDER
                 </button>
 
